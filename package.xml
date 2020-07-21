@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tb2_tools</name>
+  <version>0.0.1</version>
+  <description>all necessary tools, scripts and launch files, etc needed to set up tb2-1 robot</description>
+  
+  <author email="xiangyu002@e.ntu.edu.sg">Xiangyu Liu</author>
+  <maintainer email="xiangyu002@e.ntu.edu.sg">Xiangyu Liu</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
